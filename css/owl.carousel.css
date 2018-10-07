@@ -38,7 +38,7 @@
 }
 	
 .owl-carousel .owl-item{
-	float: left;
+	float: center;
 }
 .owl-controls .owl-page,
 .owl-controls .owl-buttons div{
